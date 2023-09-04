@@ -1,15 +1,16 @@
 name: flutter_quanttide_design
 description: 量潮设计语言Flutter组件库
-version: 0.0.1
+version: 0.1.0-alpha.1
 homepage:
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
-  flutter: ">=1.17.0"
+  flutter: ">=3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
+  graphview: ^1.2.0
 
 dev_dependencies:
   flutter_test:
